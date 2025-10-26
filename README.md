@@ -10,13 +10,3 @@ Mahasiswa diminta membuat halaman web sederhana menggunakan **HTML**, **CSS**, d
 3. Edit file sesuai instruksi di soal.
 4. Commit setiap perubahan penting.
 5. Push kembali hasil kerja ke repository GitHub Anda.
-
-## 📁 Struktur Folder
-uts-pemrograman-web/
-├── index.html
-├── assets/
-│ ├── css/
-│ │ └── style.css
-│ └── js/
-│ └── script.js
-└── README.md
